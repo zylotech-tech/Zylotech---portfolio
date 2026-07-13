@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
+import Credentials from './components/Credentials'
 import Services from './components/Services'
 import Projects from './components/Projects'
 import WhyChooseUs from './components/WhyChooseUs'
