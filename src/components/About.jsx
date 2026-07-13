@@ -45,21 +45,18 @@ export default function About() {
             with much bigger budgets. The goal is never just "a website." It's a fast, credible,
             conversion-ready digital front door for your business.
           </p>
-        <p>
-  That expertise didn't start in 2026 — it was built over years of hands-on work in
-  web development, IT, and networking.{' '}
-  <a
-    href="#credentials"
-    onClick={(e) => {
-      e.preventDefault()
-      document.querySelector('#credentials')?.scrollIntoView({ behavior: 'smooth' })
-    }}
-    className="text-cyan font-medium hover:underline"
-  >
-    See the full journey
-  </a>
-  .
-</p>
+          <p>
+            The path here started in 2022, working hands-on with laptops and desktops at a
+            computer store while learning web development. In 2023, that became a Diploma in
+            Website Design &amp; Development. In 2024, an internship with a Swiss company added
+            networking and IT experience to the mix. By 2026, that experience became Zylo Tech.
+          </p>
+          <p>
+            Since founding Zylo Tech, Joseph has worked with restaurant owners, cafe operators,
+            e-commerce sellers, and local service providers to design and manage websites that
+            are easy to update, quick to load, and built to turn casual visitors into paying
+            customers — with ongoing management so the site keeps working long after launch.
+          </p>
 
           <div className="!mt-10 grid grid-cols-1 sm:grid-cols-3 gap-4">
             {STATS.map(({ icon: Icon, value, label }) => (
