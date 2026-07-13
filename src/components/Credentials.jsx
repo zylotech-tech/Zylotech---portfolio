@@ -110,7 +110,7 @@ export default function Credentials() {
                 className="group mt-6 w-full rounded-xl border border-white/10 overflow-hidden relative"
               >
                 <img
-                  src="/credentials/web-dev-diploma.jpg"
+                  src="/web-dev-diploma.jpg"
                   alt="Diploma in Website Design and Development, awarded to Okpe Joseph by Chris Gate Computer College, 2023"
                   className="w-full h-44 object-cover object-top opacity-90 group-hover:opacity-100 transition-opacity"
                 />
@@ -148,7 +148,7 @@ export default function Credentials() {
                 <X size={26} />
               </button>
               <img
-                src="/credentials/web-dev-diploma.jpg"
+                src="/web-dev-diploma.jpg"
                 alt="Diploma in Website Design and Development, awarded to Okpe Joseph by Chris Gate Computer College, 2023"
                 className="w-full rounded-xl border border-white/10"
               />
